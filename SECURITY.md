@@ -1,6 +1,6 @@
 # Schwachstelle gefunden? Hier bist du richtig!
 
-Wenn du eine Schwachstelle gefunden hast informiere uns bitte über [security@laut-bochum.de](mailto:security@laut-bochum.de). Alternativ oder zusätzlich kannst du auch einen privaten Schwachstellen-Report erstellen (siehe [hier](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability)).
+Wenn du eine Schwachstelle gefunden hast informiere uns bitte über [info@florianbecker.eu](mailto:info@florianbecker.eu). Alternativ oder zusätzlich kannst du auch einen privaten Schwachstellen-Report erstellen (siehe [hier](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability)).
 
 Diese Meldungen sollten folgendes beinhalten:
 - Eine Beschreibung der Schwachstelle
